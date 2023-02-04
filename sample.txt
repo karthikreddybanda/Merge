@@ -1,1 +1,2 @@
 This is first line in Master Branch
+This is second line in Master Branch
